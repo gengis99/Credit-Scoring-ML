@@ -27,7 +27,7 @@ See the full report: `report/Modello_di_credit_scoring_con_ML_su_dati_bancari.pd
 - `src/` — scripts to reproduce training/evaluation (if provided)  
 
 ## Dataset
-Statlog (German Credit Data), UCI Machine Learning Repository (url: "https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data").  
+Statlog (German Credit Data), UCI Machine Learning Repository (url: https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data).  
 Download from UCI and place it locally (not versioned in this repo).
 
 ## Reproducibility
