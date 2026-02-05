@@ -21,9 +21,9 @@ Final model: **LogReg_NO_SENS** with **t = 0.25**
 
 
 ## Repository structure
-- `report/` — PDF report + LaTeX sources  
-- `images/` — figures used in the report  
-- `src/` — scripts to reproduce training/evaluation (if provided)  
+- `report/` — PDF report 
+- `images.png/` — figures used in the report  
+- `script-credit_scoring.py/` — script to reproduce training/evaluation
 
 ## Dataset
 Statlog (German Credit Data), UCI Machine Learning Repository (url: https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data).  
