@@ -19,7 +19,6 @@ Final model: **LogReg_NO_SENS** with **t = 0.25**
 - ROC-AUC: **0.803**
 - PR-AUC: **0.651**
 
-See the full report: `report/Modello_di_credit_scoring_con_ML_su_dati_bancari.pdf`
 
 ## Repository structure
 - `report/` — PDF report + LaTeX sources  
